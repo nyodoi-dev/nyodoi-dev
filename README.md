@@ -19,14 +19,14 @@ Accra transportation/navigation platform combining trotro routes, stops, ride-ha
 **Tech:** Flask · JavaScript · HTML/CSS · SQL · APIs
 
 ---
-###🏠 Hostel Booking System
+### 🏠 Hostel Booking System
 **Hostel Management Hub (https://okyere-nock.homes/)**
 Hostel booking, payment verification, admin approval, and SMS notification system.
 
 **Tech:** Flask · SQL · JavaScript · Arkesel SMS API · Vercel
 
 ---
-###⚽ E-Football League
+### ⚽ E-Football League
 **[Super League](https://efootball-ranking.vercel.app/)**
 Online eFootball competition/ranking system with result submissions, screenshot verification, and Elo-style rankings.
 
