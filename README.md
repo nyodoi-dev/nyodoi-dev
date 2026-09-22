@@ -4,20 +4,55 @@ Computer Science & Engineering student at the University of Mines and Technology
 
 I'm not a developer by trade background — I've learned React and modern web dev largely through building things people actually use. I also have an entrepreneurial streak, having run side projects in WiFi hotspot business infrastructure.
 
-## 🔧 What I'm working on
+## ⭐ Featured Projects
 
-**[KwanPa](https://github.com/nyodoi-dev/kwanpa)** — A multimodal journey-planning app for Accra (trotro, okada, ride-hailing, walking, mixed-mode). Backed by a Supabase project, seeded with real GTFS trotro data plus a field-data collection app for crowdsourcing routes, stops, and fares across Accra corridors like Madina, Circle, Legon, and Adenta.
-You can help contribute to the progress of the project by helping as with any data and information **[KWANPA field Entry](https://kwanpa-field-data.vercel.app/)** Do well to visit and help us gather data.
+### 🌱 CocoGuard
+Cocoa disease detection using computer vision/YOLO, with a Flask web application.
 
-**Hostel Management Hub (https://okyere-nock.homes/)** — A full booking + operations platform for a hostel: MoMo payment flow with SMS confirmation (Arkesel), room availability tracking, resident directory, incident reporting, and an admin dashboard for managing pricing, announcements, and bookings. Built with Neon Postgres.
+**Tech:** Python · Flask · YOLO · Machine Learning · Vercel
 
-**[Super League](https://efootball-ranking.vercel.app/)** — A full-featured eFootball group ranking app: ELO rankings, match reporting with screenshot verification, tournament modes (knockout, round robin, groups), player profiles, and season archiving. Built with Next.js 14, Supabase, and Tailwind CSS.
+---
 
-**[WiFi Hotspot Billing System](https://hotspot-billing-six.vercel.app)** — Voucher-based billing system for a two-location hostel WiFi business, with a companion Telegram bot. Integrates Paystack for payments, Arkesel for SMS, and TP-Link Omada controllers for network management.
+### 🚌 KwanPa
+Accra transportation/navigation platform combining trotro routes, stops, ride-hailing, traffic and fare information.You can help contribute to the progress of the project by helping as with any data and information **[KWANPA field Entry](https://kwanpa-field-data.vercel.app/)** Do well to visit and help us gather data.
 
-**School Management System** — A lightweight class management system for teachers: student records, attendance tracking, exam/assignment marks, automated reports, and a dashboard with class stats. Built with PHP, MySQL, and Bootstrap.
+**Tech:** Flask · JavaScript · HTML/CSS · SQL · APIs
 
-**Construction Management System** — A database-driven system tracking projects, tasks, resources, team members, suppliers, clients, equipment, budgets, and invoicing, with a responsive Bootstrap dashboard. Built with PHP (MySQLi) and MySQL.
+---
+
+**Hostel Management Hub (https://okyere-nock.homes/)**
+Hostel booking, payment verification, admin approval, and SMS notification system.
+
+**Tech:** Flask · SQL · JavaScript · Arkesel SMS API · Vercel
+
+---
+
+**[Super League](https://efootball-ranking.vercel.app/)**
+Online eFootball competition/ranking system with result submissions, screenshot verification, and Elo-style rankings.
+
+**Tech:** JavaScript · Supabase · PostgreSQL · Vercel
+
+---
+
+### 🎓 School Management System
+Student, teacher, results, and academic progression management system for private schools.
+
+**Tech:** Flask · MSSQL · HTML · CSS · JavaScript
+
+---
+
+### 📶 Wi-Fi Hotspot Billing System
+Omada-based hotspot system with vouchers, captive portal, payments, and SMS.
+
+**Tech:** Node.js/Express · Neon Postgres · Paystack · Arkesel SMS · TP-Link Omada
+
+## 🧪 Other Projects
+
+- **🏗️ Construction Management System** — Database-driven dashboard tracking projects, tasks, resources, suppliers, budgets, and invoicing *(group project)*
+- **🗳️ BlakVote** — Voting/election application *(group project)* — Node.js + SQL Server
+- **💻 ABARTO** — Group project — Node.js/Express/MongoDB
+- **🌫️ Smart Dust Monitoring & Air Quality Management System** — Environmental monitoring research/project idea, particularly relevant to mining areas *(group project)*
+- **🌐 Portfolio Website** — Personal React-based portfolio site
 
 ## 🕶️ VR & Embedded Systems
 
@@ -27,9 +62,18 @@ Beyond web dev, I build immersive and low-level projects:
 - **Solar System VR** — Interactive VR scene built with A-Frame / WebXR
 - **Embedded systems work** — 8051 microcontroller programming in Assembly, simulated and tested in Proteus
 
+## 🌱 Currently Learning
+
+- 🐧 Linux & system administration (hands-on Linux/WSL practice, filesystem work, shell scripting)
+- 🐳 Docker
+- 🔄 CI/CD
+- ☁️ Cloud & deployment
+- 📊 Monitoring and logging
+- 🔧 DevOps practices
+
 ## 🛠️ Tech I work with
 
-`React` · `Next.js` · `Node.js/Express` · `Supabase` · `PostgreSQL (Neon)` · `Tailwind CSS` · `Python` · `A-Frame/WebXR` · `Assembly (8051)` · `Proteus`
+`Python` · `Flask` · `JavaScript` · `Node.js/Express` · `Supabase` · `PostgreSQL` · `MySQL` · `MSSQL` · `MongoDB` · `A-Frame/WebXR` · `Assembly (8051)` · `Proteus` · `YOLO/ML`
 
 ## 📫 Get in touch
 
