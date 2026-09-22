@@ -42,6 +42,7 @@ Student, teacher, results, and academic progression management system for privat
 ---
 
 ### 📶 Wi-Fi Hotspot Billing System
+**[WiFi Hotspot Billing System](https://hotspot-billing-six.vercel.app)**
 Omada-based hotspot system with vouchers, captive portal, payments, and SMS.
 
 **Tech:** Node.js/Express · Neon Postgres · Paystack · Arkesel SMS · TP-Link Omada
