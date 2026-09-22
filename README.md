@@ -33,8 +33,8 @@ Beyond web dev, I build immersive and low-level projects:
 ## 📫 Get in touch
 
 - Portfolio: *(add link once live)*
-- LinkedIn: *(add link)*
-- Email: *(your personal email)*
+- LinkedIn: *www.linkedin.com/in/nana-yaw-odoi-yeboah-350118426*
+- Email: *nanayawodoiyeboah@gmail.com*
 
 ---
 *Building for real people, not just tutorials.*
