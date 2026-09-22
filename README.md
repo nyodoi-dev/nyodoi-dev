@@ -7,6 +7,7 @@ I'm not a developer by trade background — I've learned React and modern web de
 ## 🔧 What I'm working on
 
 **[KwanPa](https://github.com/nyodoi-dev/kwanpa)** — A multimodal journey-planning app for Accra (trotro, okada, ride-hailing, walking, mixed-mode). Backed by a Supabase project, seeded with real GTFS trotro data plus a field-data collection app for crowdsourcing routes, stops, and fares across Accra corridors like Madina, Circle, Legon, and Adenta.
+You can help contribute to the progress of the project by helping as with any data and information *https://kwanpa-field-data.vercel.app/* Do well to visit and help us gather data.
 
 **Hostel Management Hub (https://okyere-nock.homes/)** — A full booking + operations platform for a hostel: MoMo payment flow with SMS confirmation (Arkesel), room availability tracking, resident directory, incident reporting, and an admin dashboard for managing pricing, announcements, and bookings. Built with Neon Postgres.
 
