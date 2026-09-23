@@ -1,8 +1,8 @@
 # Hi, I'm Nana Yaw 👋
 
-Computer Science & Engineering student at the University of Mines and Technology (UMaT), Ghana — building full-stack web apps that solve real, local problems.
+Computer Science & Engineering student at the University of Mines and Technology (UMaT), Ghana, building full-stack web apps that solve real, local problems.
 
-I'm not a developer by trade background — I've learned React and modern web dev largely through building things people actually use. I also have an entrepreneurial streak, having run side projects in WiFi hotspot business infrastructure.
+I'm not a developer by trade background(yet) ; I've learned React and modern web dev largely through building things people actually use. I also have an entrepreneurial streak, having run side projects in WiFi hotspot business infrastructure.
 
 ## ⭐ Featured Projects
 
@@ -64,6 +64,7 @@ Beyond web dev, I build immersive and low-level projects:
 - **Embedded systems work** — 8051 microcontroller programming in Assembly, simulated and tested in Proteus
 
 ## 🌱 Currently Learning
+I'm currently doing an immersive internship with AmaliTech to gain skills in DevOps Engineering.
 
 - 🐧 Linux & system administration (hands-on Linux/WSL practice, filesystem work, shell scripting)
 - 🐳 Docker
