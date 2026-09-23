@@ -79,7 +79,7 @@ I'm currently doing an immersive internship with AmaliTech to gain skills in Dev
 
 ## 📫 Get in touch
 
-- Portfolio: *https://portfolio-lovat-rho-bpxr7wuiwj.vercel.app/*
+- Portfolio: *https://nyodoi-dev.vercel.app/*
 - LinkedIn: *www.linkedin.com/in/nana-yaw-odoi-yeboah-350118426*
 - Email: *nanayawodoiyeboah@gmail.com*
 - Phone: *233503670830*
