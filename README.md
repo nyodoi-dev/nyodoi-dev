@@ -81,6 +81,6 @@ Beyond web dev, I build immersive and low-level projects:
 - Portfolio: *https://portfolio-lovat-rho-bpxr7wuiwj.vercel.app/*
 - LinkedIn: *www.linkedin.com/in/nana-yaw-odoi-yeboah-350118426*
 - Email: *nanayawodoiyeboah@gmail.com*
-
+- Phone: *233503670830*
 ---
 *Building for real people, not just tutorials.*
